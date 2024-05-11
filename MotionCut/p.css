@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+}
+
+.ele{
+    background-color: rgb(120, 152, 152);
+    text-align: center;
+    margin: 50px;
+    padding: 15px;
+}
